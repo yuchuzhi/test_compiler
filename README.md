@@ -10,6 +10,8 @@
 7.进入我们本地的代码的文件夹，删除.git文件夹，然后运行以下命令：
 git init
 git add .
+git config --global user.email "you@example.com" 引号里面的邮箱地址必须改成你们自己的可访问邮箱地址，比如我，我就改成git config --global user.email "yuchuzhi@163.com"
+git config --global user.name "Your Name"引号中的名字改成你们自己的可识别的名字，名字是什么没有要求，就是有意义的就行，自己名字的拼音也行
 git commit -m "add files"
 git branch -M main
 git add    这一行命令你们需要运行你们自己网页上提示的那一条，每个人不一样
