@@ -1,3 +1,7 @@
 1.进入jenkins 服务器（用户名：admin, 密码：footprint123），添加一个新的节点:  
+![](https://github.com/yuchuzhi/test_compiler/blob/master/jenkins/jenkins_slave1.png)
+![](https://github.com/yuchuzhi/test_compiler/blob/master/jenkins/jenkins_slave2.png)
+![](https://github.com/yuchuzhi/test_compiler/blob/master/jenkins/jenkins_slave3.png)
 
 2.在自己的电脑上运行图片中的两条命令，将自己的电脑连接到jenkins:
+![](https://github.com/yuchuzhi/test_compiler/blob/master/jenkins/jenkins_slave4.png)
